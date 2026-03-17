@@ -1,7 +1,8 @@
 using UnityEngine;
 using UnityEngine.UI;
-using System.Collections;
 using TMPro;
+using System.Collections;
+using System.Collections.Generic;
 
 public class PlayerHealth : MonoBehaviour
 {
@@ -18,11 +19,22 @@ public class PlayerHealth : MonoBehaviour
     [SerializeField] private GameObject gameOverPanel;
     [SerializeField] private TextMeshProUGUI gameOverText;
     
+    [Header("Shop UI Elements")]
+    [SerializeField] private GameObject shopPanel; // Панель магазина
+    [SerializeField] private TextMeshProUGUI shopMessageText; // Текст с предложением
+    [SerializeField] private Button yesButton; // Кнопка "Да"
+    [SerializeField] private Button noButton; // Кнопка "Нет"
+    
+    [Header("Shop Settings")]
+    [SerializeField] private int victoryPointsCost = 1; // Стоимость одной жизни в победах
+    
     [Header("Effects")]
     [SerializeField] private GameObject damageEffectPrefab;
     [SerializeField] private AudioClip damageSound;
     [SerializeField] private AudioClip healSound;
     [SerializeField] private AudioClip deathSound;
+    [SerializeField] private AudioClip buySound; // Звук покупки
+    [SerializeField] private AudioClip errorSound; // Звук ошибки (не хватает побед)
     
     [Header("Events")]
     public System.Action OnHealthChanged;
@@ -36,10 +48,14 @@ public class PlayerHealth : MonoBehaviour
     private PlayerInputDemo playerInput;
     private Collider2D playerCollider;
     private Rigidbody2D playerRigidbody;
+    private DoorController doorController; // Ссылка на DoorController для доступа к victoryPoints
     
     // State
     private bool isInvulnerable = false;
     private bool isDead = false;
+    private GameObject currentHPObject; // Текущий объект с тегом HP
+    private bool isShopOpen = false; // Открыт ли магазин
+    private bool canInteractWithHP = true; // Можно ли взаимодействовать с HP объектами
     
     // Properties
     public int CurrentHealth => currentHealth;
@@ -56,6 +72,7 @@ public class PlayerHealth : MonoBehaviour
         playerInput = GetComponent<PlayerInputDemo>();
         playerCollider = GetComponent<Collider2D>();
         playerRigidbody = GetComponent<Rigidbody2D>();
+        doorController = GetComponent<DoorController>(); // Получаем ссылку на DoorController
         
         // Если AudioSource нет, добавляем
         if (audioSource == null)
@@ -69,6 +86,187 @@ public class PlayerHealth : MonoBehaviour
         
         if (gameOverPanel != null)
             gameOverPanel.SetActive(false);
+            
+        // Скрываем панель магазина при старте
+        if (shopPanel != null)
+            shopPanel.SetActive(false);
+            
+        // Настраиваем кнопки магазина
+        SetupShopButtons();
+    }
+    
+    void Update()
+    {
+        // Дополнительная логика если нужна
+    }
+    
+    /// <summary>
+    /// Обработка столкновения с объектом
+    /// </summary>
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        // Проверяем, есть ли тег HP и можно ли взаимодействовать
+        if (collision.gameObject.CompareTag("HP") && canInteractWithHP && !isShopOpen && !isDead)
+        {
+            Debug.Log($"Collided with HP object: {collision.gameObject.name}");
+            currentHPObject = collision.gameObject;
+            OpenShop();
+        }
+    }
+    
+    /// <summary>
+    /// Обработка триггерного столкновения (если используете IsTrigger)
+    /// </summary>
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        // Проверяем, есть ли тег HP и можно ли взаимодействовать
+        if (other.CompareTag("HP") && canInteractWithHP && !isShopOpen && !isDead)
+        {
+            Debug.Log($"Trigger entered with HP object: {other.gameObject.name}");
+            currentHPObject = other.gameObject;
+            OpenShop();
+        }
+    }
+    
+    void SetupShopButtons()
+    {
+        if (yesButton != null)
+        {
+            yesButton.onClick.AddListener(OnYesButtonClicked);
+        }
+        
+        if (noButton != null)
+        {
+            noButton.onClick.AddListener(OnNoButtonClicked);
+        }
+    }
+    
+    void OpenShop()
+    {
+        if (shopPanel == null || currentHPObject == null) return;
+        
+        Debug.Log("Opening health shop");
+        
+        isShopOpen = true;
+        canInteractWithHP = false; // Запрещаем новые взаимодействия
+        
+        // Показываем панель магазина
+        shopPanel.SetActive(true);
+        
+        // Обновляем текст с предложением
+        if (shopMessageText != null)
+        {
+            int currentVictoryPoints = doorController != null ? doorController.victoryPoints : 0;
+            shopMessageText.text = $"Хотите купить 1 жизнь за {victoryPointsCost} очко победы?\n\nВаши очки: {currentVictoryPoints}";
+        }
+        
+        // Блокируем управление игроком
+        Time.timeScale = 0f;
+        DisablePlayerInput();
+    }
+    
+    void OnYesButtonClicked()
+    {
+        Debug.Log("Yes button clicked - attempting to buy health");
+        
+        if (doorController == null)
+        {
+            Debug.LogError("DoorController not found!");
+            CloseShop();
+            return;
+        }
+        
+        // Проверяем, хватает ли очков побед
+        if (doorController.victoryPoints >= victoryPointsCost)
+        {
+            // Проверяем, не полное ли здоровье
+            if (currentHealth < maxHealth)
+            {
+                // Совершаем покупку
+                doorController.victoryPoints -= victoryPointsCost;
+                doorController.UpdateVictoryPointsUI();
+                
+                // Добавляем одну жизнь
+                Heal(1);
+                
+                // Звук покупки
+                if (buySound != null && audioSource != null)
+                    audioSource.PlayOneShot(buySound);
+                
+                // Уничтожаем объект HP (одноразовый магазин)
+                if (currentHPObject != null)
+                {
+                    Destroy(currentHPObject);
+                    currentHPObject = null;
+                }
+                
+                Debug.Log($"Health purchased! Remaining victory points: {doorController.victoryPoints}");
+                
+                // Показываем сообщение об успешной покупке
+                StartCoroutine(ShowPurchaseMessage("Покупка успешна! +1 жизнь", Color.green));
+                
+                // Закрываем магазин после успешной покупки
+                CloseShop();
+            }
+            else
+            {
+                // Здоровье полное
+                Debug.Log("Health is already full!");
+                if (errorSound != null && audioSource != null)
+                    audioSource.PlayOneShot(errorSound);
+                StartCoroutine(ShowPurchaseMessage("У вас уже полное здоровье!", Color.yellow));
+            }
+        }
+        else
+        {
+            // Не хватает очков
+            Debug.Log($"Not enough victory points! Need {victoryPointsCost}, have {doorController.victoryPoints}");
+            if (errorSound != null && audioSource != null)
+                audioSource.PlayOneShot(errorSound);
+            StartCoroutine(ShowPurchaseMessage($"Не хватает очков! Нужно {victoryPointsCost}", Color.red));
+        }
+    }
+    
+    IEnumerator ShowPurchaseMessage(string message, Color color)
+    {
+        // Показываем сообщение на панели магазина
+        if (shopMessageText != null)
+        {
+            Color originalColor = shopMessageText.color;
+            shopMessageText.text = message;
+            shopMessageText.color = color;
+            
+            yield return new WaitForSecondsRealtime(1.5f);
+            
+            // Возвращаем исходный текст, если объект HP еще существует
+            if (currentHPObject != null)
+            {
+                int currentVictoryPoints = doorController != null ? doorController.victoryPoints : 0;
+                shopMessageText.text = $"Хотите купить 1 жизнь за {victoryPointsCost} очко победы?\n\nВаши очки: {currentVictoryPoints}";
+                shopMessageText.color = originalColor;
+            }
+        }
+    }
+    
+    void OnNoButtonClicked()
+    {
+        Debug.Log("No button clicked - closing shop");
+        CloseShop();
+    }
+    
+    void CloseShop()
+    {
+        isShopOpen = false;
+        
+        // Возвращаем возможность взаимодействия только если объект HP еще существует
+        canInteractWithHP = currentHPObject != null;
+        
+        if (shopPanel != null)
+            shopPanel.SetActive(false);
+        
+        // Возвращаем управление игроку
+        Time.timeScale = 1f;
+        EnablePlayerInput();
     }
     
     /// <summary>
@@ -98,26 +296,10 @@ public class PlayerHealth : MonoBehaviour
     /// </summary>
     public void TakeDamage(int damageAmount)
     {
-        // Подробная отладка
-        Debug.Log($"TakeDamage called: damageAmount={damageAmount}, isInvulnerable={isInvulnerable}, isDead={isDead}, currentHealth={currentHealth}");
-    
-        
         // Проверки на возможность получения урона
-        if (isInvulnerable)
+        if (isInvulnerable || isDead || currentHealth <= 0)
         {
-            Debug.Log("Damage blocked - player is invulnerable");
-            return;
-        }
-        
-        if (isDead)
-        {
-            Debug.Log("Damage blocked - player is dead");
-            return;
-        }
-        
-        if (currentHealth <= 0)
-        {
-            Debug.Log("Damage blocked - player already has 0 health");
+            Debug.Log($"Damage blocked: isInvulnerable={isInvulnerable}, isDead={isDead}, currentHealth={currentHealth}");
             return;
         }
         
@@ -130,10 +312,9 @@ public class PlayerHealth : MonoBehaviour
         // Визуальные и звуковые эффекты
         PlayDamageEffects();
         
-        // Запускаем неуязвимость ТОЛЬКО если здоровье > 0
+        // Запускаем неуязвимость только если здоровье > 0
         if (currentHealth > 0)
         {
-            Debug.Log("Starting invulnerability");
             StartCoroutine(InvulnerabilityRoutine());
         }
         
@@ -230,7 +411,7 @@ public class PlayerHealth : MonoBehaviour
     private IEnumerator InvulnerabilityRoutine()
     {
         isInvulnerable = true;
-        Debug.Log($"Invulnerability started. Duration: {invulnerabilityDuration}");
+        Debug.Log($"Invulnerability started for {invulnerabilityDuration} seconds");
         
         float elapsedTime = 0f;
         
@@ -359,22 +540,23 @@ public class PlayerHealth : MonoBehaviour
         currentHealth = maxHealth;
         isDead = false;
         isInvulnerable = false;
+        canInteractWithHP = true; // Сбрасываем флаг взаимодействия
         
         if (spriteRenderer != null)
             spriteRenderer.enabled = true;
             
         UpdateHealthUI();
     }
+    
+    void DisablePlayerInput()
+    {
+        if (playerInput != null)
+            playerInput.SetInputEnabled(false);
+    }
+    
+    void EnablePlayerInput()
+    {
+        if (playerInput != null)
+            playerInput.SetInputEnabled(true);
+    }
 }
-    // Этот метод дублирует EnablePlayerControl из DoorController, можно удалить
-    // private void EnablePlayerControl(bool enable)
-    // {
-    //     PlayerInputDemo playerInput = GetComponent<PlayerInputDemo>();
-    //     if (playerInput != null)
-    //     {
-    //         playerInput.SetInputEnabled(enable);
-    //     }
-    // }
-
-
-    // Добавьте этот метод временно для т

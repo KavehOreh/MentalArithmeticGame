@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Door
   - Enemy
+  - HP
   layers:
   - Default
   - TransparentFX

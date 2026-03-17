@@ -443,10 +443,11 @@ public class DoorController : MonoBehaviour
         }
     }
     
-    void UpdateVictoryPointsUI()
+   // Добавьте в DoorController этот метод, если его еще нет
+    public void UpdateVictoryPointsUI()
     {
         if (victoryPointsText != null)
-            victoryPointsText.text = $"Победы: {victoryPoints}";
+        victoryPointsText.text = $"Победы: {victoryPoints}";
     }
     
     void DisablePlayerInput()
