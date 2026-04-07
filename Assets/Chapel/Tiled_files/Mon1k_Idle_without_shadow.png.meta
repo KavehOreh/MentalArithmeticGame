@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: 221cc871696050c4c85aca8a3a90fc08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -213810069691144441
+    second: Mon1k_Idle_without_shadow_0
+  - first:
+      213: 8122031670906484967
+    second: Mon1k_Idle_without_shadow_1
+  - first:
+      213: 5975981881195219508
+    second: Mon1k_Idle_without_shadow_2
+  - first:
+      213: 8755201469537231653
+    second: Mon1k_Idle_without_shadow_3
+  - first:
+      213: 8571551828461339984
+    second: Mon1k_Idle_without_shadow_4
+  - first:
+      213: -7188426265005507069
+    second: Mon1k_Idle_without_shadow_5
+  - first:
+      213: -91086536501239837
+    second: Mon1k_Idle_without_shadow_6
+  - first:
+      213: 8919346371977125559
+    second: Mon1k_Idle_without_shadow_7
+  - first:
+      213: 1477137224079920593
+    second: Mon1k_Idle_without_shadow_8
+  - first:
+      213: 806638699893208946
+    second: Mon1k_Idle_without_shadow_9
+  - first:
+      213: -8737886290746275478
+    second: Mon1k_Idle_without_shadow_10
+  - first:
+      213: 973329344320546188
+    second: Mon1k_Idle_without_shadow_11
+  - first:
+      213: -4839048753272866110
+    second: Mon1k_Idle_without_shadow_12
+  - first:
+      213: -5491127797330490224
+    second: Mon1k_Idle_without_shadow_13
+  - first:
+      213: -291359236735962013
+    second: Mon1k_Idle_without_shadow_14
+  - first:
+      213: 5180746813892091325
+    second: Mon1k_Idle_without_shadow_15
+  - first:
+      213: -8517207730615921670
+    second: Mon1k_Idle_without_shadow_16
+  - first:
+      213: 1729885594825383997
+    second: Mon1k_Idle_without_shadow_17
+  - first:
+      213: -856663736610832049
+    second: Mon1k_Idle_without_shadow_18
+  - first:
+      213: -3780186518751295181
+    second: Mon1k_Idle_without_shadow_19
+  - first:
+      213: 1373428740353063484
+    second: Mon1k_Idle_without_shadow_20
+  - first:
+      213: 5668362668877615371
+    second: Mon1k_Idle_without_shadow_21
+  - first:
+      213: 6822776564102555194
+    second: Mon1k_Idle_without_shadow_22
+  - first:
+      213: -5545817404260387297
+    second: Mon1k_Idle_without_shadow_23
+  - first:
+      213: -573008339474708632
+    second: Mon1k_Idle_without_shadow_24
+  - first:
+      213: 3308833353998044503
+    second: Mon1k_Idle_without_shadow_25
+  - first:
+      213: -8421992709536656441
+    second: Mon1k_Idle_without_shadow_26
+  - first:
+      213: -8253592573228833395
+    second: Mon1k_Idle_without_shadow_27
+  - first:
+      213: -2383191618278462172
+    second: Mon1k_Idle_without_shadow_28
+  - first:
+      213: 7550379475786488707
+    second: Mon1k_Idle_without_shadow_29
+  - first:
+      213: 6860494481596825695
+    second: Mon1k_Idle_without_shadow_30
+  - first:
+      213: -6681607278850289229
+    second: Mon1k_Idle_without_shadow_31
+  - first:
+      213: 8359789304943444658
+    second: Mon1k_Idle_without_shadow_32
+  - first:
+      213: -4497330080262090351
+    second: Mon1k_Idle_without_shadow_33
+  - first:
+      213: -7967508834001012525
+    second: Mon1k_Idle_without_shadow_34
+  - first:
+      213: -9136849044883396511
+    second: Mon1k_Idle_without_shadow_35
+  - first:
+      213: 6457810516094714964
+    second: Mon1k_Idle_without_shadow_36
+  - first:
+      213: 5777723139659333711
+    second: Mon1k_Idle_without_shadow_37
+  - first:
+      213: 7879353694833101337
+    second: Mon1k_Idle_without_shadow_38
+  - first:
+      213: -1821345394702547933
+    second: Mon1k_Idle_without_shadow_39
+  - first:
+      213: -8138501371601667847
+    second: Mon1k_Idle_without_shadow_40
+  - first:
+      213: -2834752073390068655
+    second: Mon1k_Idle_without_shadow_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 98
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70768aadfd4680df0800000000000000
+      internalID: -213810069691144441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 98
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e87ad6b5c047b070800000000000000
+      internalID: 8122031670906484967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 98
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43acfccdbd3fee250800000000000000
+      internalID: 5975981881195219508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 98
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523aeb87959b08970800000000000000
+      internalID: 8755201469537231653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 98
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055c94559f444f670800000000000000
+      internalID: 8571551828461339984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 98
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e324cd5649d3c90800000000000000
+      internalID: -7188426265005507069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 98
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efd50417456cbef0800000000000000
+      internalID: -91086536501239837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 98
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be9d52c442e7cb70800000000000000
+      internalID: 8919346371977125559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 98
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd4ac5aa78df7410800000000000000
+      internalID: 1477137224079920593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 98
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277b731bf91c13b00800000000000000
+      internalID: 806638699893208946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 98
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a690050c6baccb680800000000000000
+      internalID: -8737886290746275478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 98
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85a0b9b1e5f18d00800000000000000
+      internalID: 973329344320546188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cabf5a1cce38dcb0800000000000000
+      internalID: -4839048753272866110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cc7df8c589bc3b0800000000000000
+      internalID: -5491127797330490224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364f2506152e4fbf0800000000000000
+      internalID: -291359236735962013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd564947c5b5e740800000000000000
+      internalID: 5180746813892091325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_16
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af35d62f1bcccc980800000000000000
+      internalID: -8517207730615921670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_17
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30e1ad78c9c10810800000000000000
+      internalID: 1729885594825383997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_18
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f414a5fced48c14f0800000000000000
+      internalID: -856663736610832049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_19
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 66
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339cb15b3641a8bc0800000000000000
+      internalID: -3780186518751295181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_20
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 66
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a7e01a9266f0310800000000000000
+      internalID: 1373428740353063484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_21
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 66
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b011988a0d11aae40800000000000000
+      internalID: 5668362668877615371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_22
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36613de22f5fae50800000000000000
+      internalID: 6822776564102555194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_23
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1671ed247c4903b0800000000000000
+      internalID: -5545817404260387297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867064083f34c08f0800000000000000
+      internalID: -573008339474708632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d840e87665bed20800000000000000
+      internalID: 3308833353998044503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_26
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3532790421f1b80800000000000000
+      internalID: -8421992709536656441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85a4e7b849557d80800000000000000
+      internalID: -8253592573228833395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42de2d099d33deed0800000000000000
+      internalID: -2383191618278462172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b57ad212658c860800000000000000
+      internalID: 7550379475786488707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f504b1fe16f553f50800000000000000
+      internalID: 6860494481596825695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_31
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 34
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1d67f94992643a0800000000000000
+      internalID: -6681607278850289229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_32
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 34
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2834ea410f30470800000000000000
+      internalID: 8359789304943444658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_33
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 34
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1919c40be164691c0800000000000000
+      internalID: -4497330080262090351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_34
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8359cdde8bd6190800000000000000
+      internalID: -7967508834001012525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_35
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168ab59e334633180800000000000000
+      internalID: -9136849044883396511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4548b9e0370ce9950800000000000000
+      internalID: 6457810516094714964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_37
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 2
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4003f575989e2050800000000000000
+      internalID: 5777723139659333711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_38
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a40385076195d60800000000000000
+      internalID: 7879353694833101337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_39
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324067f630849b6e0800000000000000
+      internalID: -1821345394702547933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_40
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f837a54f1c3e0f80800000000000000
+      internalID: -8138501371601667847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon1k_Idle_without_shadow_41
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c68472200f8a8d0800000000000000
+      internalID: -2834752073390068655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mon1k_Idle_without_shadow_0: -213810069691144441
+      Mon1k_Idle_without_shadow_1: 8122031670906484967
+      Mon1k_Idle_without_shadow_10: -8737886290746275478
+      Mon1k_Idle_without_shadow_11: 973329344320546188
+      Mon1k_Idle_without_shadow_12: -4839048753272866110
+      Mon1k_Idle_without_shadow_13: -5491127797330490224
+      Mon1k_Idle_without_shadow_14: -291359236735962013
+      Mon1k_Idle_without_shadow_15: 5180746813892091325
+      Mon1k_Idle_without_shadow_16: -8517207730615921670
+      Mon1k_Idle_without_shadow_17: 1729885594825383997
+      Mon1k_Idle_without_shadow_18: -856663736610832049
+      Mon1k_Idle_without_shadow_19: -3780186518751295181
+      Mon1k_Idle_without_shadow_2: 5975981881195219508
+      Mon1k_Idle_without_shadow_20: 1373428740353063484
+      Mon1k_Idle_without_shadow_21: 5668362668877615371
+      Mon1k_Idle_without_shadow_22: 6822776564102555194
+      Mon1k_Idle_without_shadow_23: -5545817404260387297
+      Mon1k_Idle_without_shadow_24: -573008339474708632
+      Mon1k_Idle_without_shadow_25: 3308833353998044503
+      Mon1k_Idle_without_shadow_26: -8421992709536656441
+      Mon1k_Idle_without_shadow_27: -8253592573228833395
+      Mon1k_Idle_without_shadow_28: -2383191618278462172
+      Mon1k_Idle_without_shadow_29: 7550379475786488707
+      Mon1k_Idle_without_shadow_3: 8755201469537231653
+      Mon1k_Idle_without_shadow_30: 6860494481596825695
+      Mon1k_Idle_without_shadow_31: -6681607278850289229
+      Mon1k_Idle_without_shadow_32: 8359789304943444658
+      Mon1k_Idle_without_shadow_33: -4497330080262090351
+      Mon1k_Idle_without_shadow_34: -7967508834001012525
+      Mon1k_Idle_without_shadow_35: -9136849044883396511
+      Mon1k_Idle_without_shadow_36: 6457810516094714964
+      Mon1k_Idle_without_shadow_37: 5777723139659333711
+      Mon1k_Idle_without_shadow_38: 7879353694833101337
+      Mon1k_Idle_without_shadow_39: -1821345394702547933
+      Mon1k_Idle_without_shadow_4: 8571551828461339984
+      Mon1k_Idle_without_shadow_40: -8138501371601667847
+      Mon1k_Idle_without_shadow_41: -2834752073390068655
+      Mon1k_Idle_without_shadow_5: -7188426265005507069
+      Mon1k_Idle_without_shadow_6: -91086536501239837
+      Mon1k_Idle_without_shadow_7: 8919346371977125559
+      Mon1k_Idle_without_shadow_8: 1477137224079920593
+      Mon1k_Idle_without_shadow_9: 806638699893208946
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

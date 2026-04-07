@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 2772d9253b81fc54c809cb1c18b989de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5193139645263453975
+    second: Priest_making_spell_0
+  - first:
+      213: 3901335409292462913
+    second: Priest_making_spell_1
+  - first:
+      213: 6169460096938738565
+    second: Priest_making_spell_2
+  - first:
+      213: 74178433549858678
+    second: Priest_making_spell_3
+  - first:
+      213: -6502222053239126269
+    second: Priest_making_spell_4
+  - first:
+      213: -2916375504502720629
+    second: Priest_making_spell_5
+  - first:
+      213: -8952723722919727519
+    second: Priest_making_spell_6
+  - first:
+      213: -1162337264321223610
+    second: Priest_making_spell_7
+  - first:
+      213: 2841180375477397008
+    second: Priest_making_spell_8
+  - first:
+      213: -4614378400939892673
+    second: Priest_making_spell_9
+  - first:
+      213: -3505211929393639460
+    second: Priest_making_spell_10
+  - first:
+      213: -4540644773624097514
+    second: Priest_making_spell_11
+  - first:
+      213: 2670861658308944729
+    second: Priest_making_spell_12
+  - first:
+      213: 3869372966946260945
+    second: Priest_making_spell_13
+  - first:
+      213: -4273939012754313157
+    second: Priest_making_spell_14
+  - first:
+      213: -8479393695212431132
+    second: Priest_making_spell_15
+  - first:
+      213: -2151916568857475029
+    second: Priest_making_spell_16
+  - first:
+      213: -6310223633935148858
+    second: Priest_making_spell_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Priest_making_spell_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 101
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f1de03efcb11840800000000000000
+      internalID: 5193139645263453975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_making_spell_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 101
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bc78472e3542630800000000000000
+      internalID: 3901335409292462913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_making_spell_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 101
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5830bfd55435e9550800000000000000
+      internalID: 6169460096938738565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_making_spell_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 101
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677fbbd64e8870100800000000000000
+      internalID: 74178433549858678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_making_spell_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 101
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30788f92e7773c5a0800000000000000
+      internalID: -6502222053239126269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_making_spell_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 101
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87f6762ee3f687d0800000000000000
+      internalID: -2916375504502720629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_making_spell_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 53
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e2823253981c380800000000000000
+      internalID: -8952723722919727519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_making_spell_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 53
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6442fea9a6c8edfe0800000000000000
+      internalID: -1162337264321223610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_making_spell_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 53
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016242f8f76ed6720800000000000000
+      internalID: 2841180375477397008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_making_spell_9
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 53
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f302eb8da4f66ffb0800000000000000
+      internalID: -4614378400939892673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_making_spell_10
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 53
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfc706525cfa5fc0800000000000000
+      internalID: -3505211929393639460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_making_spell_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 53
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615d6e0c2a36cf0c0800000000000000
+      internalID: -4540644773624097514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_making_spell_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95327b3078ec01520800000000000000
+      internalID: 2670861658308944729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_making_spell_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 5
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7c45e6636c2b530800000000000000
+      internalID: 3869372966946260945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_making_spell_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 5
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b307819bc1befa4c0800000000000000
+      internalID: -4273939012754313157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_making_spell_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 5
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e81d262c54235a80800000000000000
+      internalID: -8479393695212431132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_making_spell_16
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 5
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2809fe284bd222e0800000000000000
+      internalID: -2151916568857475029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_making_spell_17
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 5
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c85506b9059d68a0800000000000000
+      internalID: -6310223633935148858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Priest_making_spell_0: 5193139645263453975
+      Priest_making_spell_1: 3901335409292462913
+      Priest_making_spell_10: -3505211929393639460
+      Priest_making_spell_11: -4540644773624097514
+      Priest_making_spell_12: 2670861658308944729
+      Priest_making_spell_13: 3869372966946260945
+      Priest_making_spell_14: -4273939012754313157
+      Priest_making_spell_15: -8479393695212431132
+      Priest_making_spell_16: -2151916568857475029
+      Priest_making_spell_17: -6310223633935148858
+      Priest_making_spell_2: 6169460096938738565
+      Priest_making_spell_3: 74178433549858678
+      Priest_making_spell_4: -6502222053239126269
+      Priest_making_spell_5: -2916375504502720629
+      Priest_making_spell_6: -8952723722919727519
+      Priest_making_spell_7: -1162337264321223610
+      Priest_making_spell_8: 2841180375477397008
+      Priest_making_spell_9: -4614378400939892673
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

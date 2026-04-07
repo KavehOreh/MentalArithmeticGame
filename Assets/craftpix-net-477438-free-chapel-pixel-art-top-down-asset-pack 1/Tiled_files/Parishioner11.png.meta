@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 4df3829e844478d4aa6e6147b851e514
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6953354479090209761
+    second: Parishioner11_0
+  - first:
+      213: 996290696990077427
+    second: Parishioner11_1
+  - first:
+      213: -1959875382455438864
+    second: Parishioner11_2
+  - first:
+      213: -9122255151320081602
+    second: Parishioner11_3
+  - first:
+      213: 4085128771620198955
+    second: Parishioner11_4
+  - first:
+      213: -209699379953034351
+    second: Parishioner11_5
+  - first:
+      213: 8207010473451595988
+    second: Parishioner11_6
+  - first:
+      213: -1304753590138113412
+    second: Parishioner11_7
+  - first:
+      213: -7192149910163928429
+    second: Parishioner11_8
+  - first:
+      213: 4595296624867115929
+    second: Parishioner11_9
+  - first:
+      213: -7672967423884104822
+    second: Parishioner11_10
+  - first:
+      213: -3687604758806208814
+    second: Parishioner11_11
+  - first:
+      213: 1152518127044300135
+    second: Parishioner11_12
+  - first:
+      213: 3883450086063494252
+    second: Parishioner11_13
+  - first:
+      213: 8822540216385938728
+    second: Parishioner11_14
+  - first:
+      213: 4530794298905258251
+    second: Parishioner11_15
+  - first:
+      213: -8342615428648551136
+    second: Parishioner11_16
+  - first:
+      213: -6973729986725356219
+    second: Parishioner11_17
+  - first:
+      213: 7265810979848486938
+    second: Parishioner11_18
+  - first:
+      213: 7325763913010806060
+    second: Parishioner11_19
+  - first:
+      213: 3485232323626239654
+    second: Parishioner11_20
+  - first:
+      213: 8490511413457839874
+    second: Parishioner11_21
+  - first:
+      213: -442413359361186651
+    second: Parishioner11_22
+  - first:
+      213: -8729684097027435038
+    second: Parishioner11_23
+  - first:
+      213: -1282085242281168048
+    second: Parishioner11_24
+  - first:
+      213: 1017217965896762061
+    second: Parishioner11_25
+  - first:
+      213: -7838650273601749913
+    second: Parishioner11_26
+  - first:
+      213: 4016866290358397824
+    second: Parishioner11_27
+  - first:
+      213: -9071378175660368030
+    second: Parishioner11_28
+  - first:
+      213: 6043013628801860328
+    second: Parishioner11_29
+  - first:
+      213: 4956659549535914649
+    second: Parishioner11_30
+  - first:
+      213: -4094484848971722408
+    second: Parishioner11_31
+  - first:
+      213: 2215534975132308132
+    second: Parishioner11_32
+  - first:
+      213: 2844926145858705620
+    second: Parishioner11_33
+  - first:
+      213: -2009303482181647826
+    second: Parishioner11_34
+  - first:
+      213: -5142108453660679190
+    second: Parishioner11_35
+  - first:
+      213: -6292404274886219160
+    second: Parishioner11_36
+  - first:
+      213: 275587732493902195
+    second: Parishioner11_37
+  - first:
+      213: 3504379284471064105
+    second: Parishioner11_38
+  - first:
+      213: -2409265565486460880
+    second: Parishioner11_39
+  - first:
+      213: 4051390594971467936
+    second: Parishioner11_40
+  - first:
+      213: -138852717396607409
+    second: Parishioner11_41
+  - first:
+      213: 5964243121880052067
+    second: Parishioner11_42
+  - first:
+      213: -1772257308845139952
+    second: Parishioner11_43
+  - first:
+      213: -8668936182099709525
+    second: Parishioner11_44
+  - first:
+      213: 584693354671146113
+    second: Parishioner11_45
+  - first:
+      213: 7775372259814947809
+    second: Parishioner11_46
+  - first:
+      213: 8722933306894269973
+    second: Parishioner11_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Parishioner11_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 537
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ce47411f8b08f90800000000000000
+      internalID: -6953354479090209761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 537
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1be1f3c1983dd00800000000000000
+      internalID: 996290696990077427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 537
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1f5b839bf1dc4e0800000000000000
+      internalID: -1959875382455438864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 537
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bd61b854d376180800000000000000
+      internalID: -9122255151320081602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 489
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a562e49fa41b830800000000000000
+      internalID: 4085128771620198955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 489
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b9744668ff61df0800000000000000
+      internalID: -209699379953034351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_6
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 489
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d82ef10b8825e170800000000000000
+      internalID: 8207010473451595988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_7
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 489
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72f66cc58594ede0800000000000000
+      internalID: -1304753590138113412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 440
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a425923c9503c90800000000000000
+      internalID: -7192149910163928429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_9
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 440
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99381c2fee5c5cf30800000000000000
+      internalID: 4595296624867115929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_10
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 440
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b6e36f7c4248590800000000000000
+      internalID: -7672967423884104822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_11
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 440
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ded057720ff2dcc0800000000000000
+      internalID: -3687604758806208814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 392
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d8ca751219eff00800000000000000
+      internalID: 1152518127044300135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_13
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 392
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6456c22749c4e530800000000000000
+      internalID: 3883450086063494252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_14
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 392
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825284e3595ff6a70800000000000000
+      internalID: 8822540216385938728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_15
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 392
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09ec90e86d90ee30800000000000000
+      internalID: 4530794298905258251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 344
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02db5bdf773193c80800000000000000
+      internalID: -8342615428648551136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_17
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 344
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ddeb58685583f90800000000000000
+      internalID: -6973729986725356219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 344
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10800b179855d460800000000000000
+      internalID: 7265810979848486938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_19
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 344
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d726f17775aa560800000000000000
+      internalID: 7325763913010806060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 296
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6837135580e5030800000000000000
+      internalID: 3485232323626239654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_21
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 296
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207ed88552b54d570800000000000000
+      internalID: 8490511413457839874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_22
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 296
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4a367c46b3cd9f0800000000000000
+      internalID: -442413359361186651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_23
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 296
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e59d4bc09ee9d680800000000000000
+      internalID: -8729684097027435038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 248
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0537f02d34e153ee0800000000000000
+      internalID: -1282085242281168048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_25
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 248
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc20c6cb952ed1e00800000000000000
+      internalID: 1017217965896762061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_26
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 248
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cf27b6b15873390800000000000000
+      internalID: -7838650273601749913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_27
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 248
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bad0bdb96ceb730800000000000000
+      internalID: 4016866290358397824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 200
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f58888c9dfb1280800000000000000
+      internalID: -9071378175660368030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_29
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 200
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2449dc0e81dd350800000000000000
+      internalID: 6043013628801860328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_30
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 200
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ac2aa499799c440800000000000000
+      internalID: 4956659549535914649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_31
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 200
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85152de29b77d27c0800000000000000
+      internalID: -4094484848971722408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 153
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2173c42592fbe10800000000000000
+      internalID: 2215534975132308132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_33
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 153
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d81120b1453b7720800000000000000
+      internalID: 2844926145858705620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_34
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 153
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e228b92f0258d14e0800000000000000
+      internalID: -2009303482181647826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_35
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 153
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3a50ffa9f83a8b0800000000000000
+      internalID: -5142108453660679190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 105
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ae14c86a3eca8a0800000000000000
+      internalID: -6292404274886219160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_37
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 105
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37121c3259513d300800000000000000
+      internalID: 275587732493902195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_38
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 105
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926a229646e02a030800000000000000
+      internalID: 3504379284471064105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_39
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 105
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0305997abb1909ed0800000000000000
+      internalID: -2409265565486460880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 57
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a002abe74e693830800000000000000
+      internalID: 4051390594971467936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_41
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 57
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e3a7f6032b21ef0800000000000000
+      internalID: -138852717396607409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_42
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 57
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3613ab9f48f35c250800000000000000
+      internalID: 5964243121880052067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_43
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 57
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01812bf0e5da767e0800000000000000
+      internalID: -1772257308845139952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 9
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba17a6de870c1b780800000000000000
+      internalID: -8668936182099709525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_45
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 9
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18484bb128f3d1800800000000000000
+      internalID: 584693354671146113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_46
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 9
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb32b6efdba7eb60800000000000000
+      internalID: 7775372259814947809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parishioner11_47
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 9
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e3bd460a51e0970800000000000000
+      internalID: 8722933306894269973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Parishioner11_0: -6953354479090209761
+      Parishioner11_1: 996290696990077427
+      Parishioner11_10: -7672967423884104822
+      Parishioner11_11: -3687604758806208814
+      Parishioner11_12: 1152518127044300135
+      Parishioner11_13: 3883450086063494252
+      Parishioner11_14: 8822540216385938728
+      Parishioner11_15: 4530794298905258251
+      Parishioner11_16: -8342615428648551136
+      Parishioner11_17: -6973729986725356219
+      Parishioner11_18: 7265810979848486938
+      Parishioner11_19: 7325763913010806060
+      Parishioner11_2: -1959875382455438864
+      Parishioner11_20: 3485232323626239654
+      Parishioner11_21: 8490511413457839874
+      Parishioner11_22: -442413359361186651
+      Parishioner11_23: -8729684097027435038
+      Parishioner11_24: -1282085242281168048
+      Parishioner11_25: 1017217965896762061
+      Parishioner11_26: -7838650273601749913
+      Parishioner11_27: 4016866290358397824
+      Parishioner11_28: -9071378175660368030
+      Parishioner11_29: 6043013628801860328
+      Parishioner11_3: -9122255151320081602
+      Parishioner11_30: 4956659549535914649
+      Parishioner11_31: -4094484848971722408
+      Parishioner11_32: 2215534975132308132
+      Parishioner11_33: 2844926145858705620
+      Parishioner11_34: -2009303482181647826
+      Parishioner11_35: -5142108453660679190
+      Parishioner11_36: -6292404274886219160
+      Parishioner11_37: 275587732493902195
+      Parishioner11_38: 3504379284471064105
+      Parishioner11_39: -2409265565486460880
+      Parishioner11_4: 4085128771620198955
+      Parishioner11_40: 4051390594971467936
+      Parishioner11_41: -138852717396607409
+      Parishioner11_42: 5964243121880052067
+      Parishioner11_43: -1772257308845139952
+      Parishioner11_44: -8668936182099709525
+      Parishioner11_45: 584693354671146113
+      Parishioner11_46: 7775372259814947809
+      Parishioner11_47: 8722933306894269973
+      Parishioner11_5: -209699379953034351
+      Parishioner11_6: 8207010473451595988
+      Parishioner11_7: -1304753590138113412
+      Parishioner11_8: -7192149910163928429
+      Parishioner11_9: 4595296624867115929
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

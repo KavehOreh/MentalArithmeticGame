@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: d8127e6d52a236143bb6fd51c7b628c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3574355050361397437
+    second: Mon2k_Walk_without_shadow_0
+  - first:
+      213: 7657626164848737500
+    second: Mon2k_Walk_without_shadow_1
+  - first:
+      213: -4161211998150044622
+    second: Mon2k_Walk_without_shadow_2
+  - first:
+      213: -401977405609195189
+    second: Mon2k_Walk_without_shadow_3
+  - first:
+      213: -1160506821893572957
+    second: Mon2k_Walk_without_shadow_4
+  - first:
+      213: 2491096282604747077
+    second: Mon2k_Walk_without_shadow_5
+  - first:
+      213: -1318408941869613206
+    second: Mon2k_Walk_without_shadow_6
+  - first:
+      213: 3359377133983405229
+    second: Mon2k_Walk_without_shadow_7
+  - first:
+      213: 5322374651859692718
+    second: Mon2k_Walk_without_shadow_8
+  - first:
+      213: -9177339763462978005
+    second: Mon2k_Walk_without_shadow_9
+  - first:
+      213: 6913870322324259401
+    second: Mon2k_Walk_without_shadow_10
+  - first:
+      213: 1491323382231273009
+    second: Mon2k_Walk_without_shadow_11
+  - first:
+      213: -5028845250714818936
+    second: Mon2k_Walk_without_shadow_12
+  - first:
+      213: -8004829256328477189
+    second: Mon2k_Walk_without_shadow_13
+  - first:
+      213: -6061605578235205267
+    second: Mon2k_Walk_without_shadow_14
+  - first:
+      213: -2349692724820103893
+    second: Mon2k_Walk_without_shadow_15
+  - first:
+      213: 173563512044592034
+    second: Mon2k_Walk_without_shadow_16
+  - first:
+      213: 4286105583326617704
+    second: Mon2k_Walk_without_shadow_17
+  - first:
+      213: 4970244119261516388
+    second: Mon2k_Walk_without_shadow_18
+  - first:
+      213: -7104262992857677597
+    second: Mon2k_Walk_without_shadow_19
+  - first:
+      213: -8825269113440921987
+    second: Mon2k_Walk_without_shadow_20
+  - first:
+      213: -5879421014114993765
+    second: Mon2k_Walk_without_shadow_21
+  - first:
+      213: 9103196638603605645
+    second: Mon2k_Walk_without_shadow_22
+  - first:
+      213: -8436801438610147633
+    second: Mon2k_Walk_without_shadow_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mon2k_Walk_without_shadow_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 98
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db02ae50bf8aa9130800000000000000
+      internalID: 3574355050361397437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon2k_Walk_without_shadow_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 98
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcbb82dc6a554a60800000000000000
+      internalID: 7657626164848737500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon2k_Walk_without_shadow_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 98
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2345c271cb76046c0800000000000000
+      internalID: -4161211998150044622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon2k_Walk_without_shadow_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 98
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b494eeaeda3eb6af0800000000000000
+      internalID: -401977405609195189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon2k_Walk_without_shadow_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 98
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6bd91b13d05efe0800000000000000
+      internalID: -1160506821893572957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon2k_Walk_without_shadow_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 98
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549b3f1eed6229220800000000000000
+      internalID: 2491096282604747077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon2k_Walk_without_shadow_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fb9277d0214bde0800000000000000
+      internalID: -1318408941869613206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon2k_Walk_without_shadow_7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 66
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da496a164b7ee9e20800000000000000
+      internalID: 3359377133983405229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon2k_Walk_without_shadow_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 66
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eace3a5fb8fdcd940800000000000000
+      internalID: 5322374651859692718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon2k_Walk_without_shadow_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26c8b7db1a83a080800000000000000
+      internalID: -9177339763462978005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon2k_Walk_without_shadow_10
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 66
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942c0494d6003ff50800000000000000
+      internalID: 6913870322324259401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon2k_Walk_without_shadow_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 66
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e012bf6be32b410800000000000000
+      internalID: 1491323382231273009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon2k_Walk_without_shadow_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886abb073e3f53ab0800000000000000
+      internalID: -5028845250714818936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon2k_Walk_without_shadow_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 34
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf503e8e33229e090800000000000000
+      internalID: -8004829256328477189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon2k_Walk_without_shadow_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 34
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69a3c4a7d9d0eba0800000000000000
+      internalID: -6061605578235205267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon2k_Walk_without_shadow_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d27cd7ae6346fd0800000000000000
+      internalID: -2349692724820103893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon2k_Walk_without_shadow_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 34
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab1369381f986200800000000000000
+      internalID: 173563512044592034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon2k_Walk_without_shadow_17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 34
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860600cb15e4b7b30800000000000000
+      internalID: 4286105583326617704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon2k_Walk_without_shadow_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4629e8761bad9f440800000000000000
+      internalID: 4970244119261516388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon2k_Walk_without_shadow_19
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 2
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0c3cfa276986d90800000000000000
+      internalID: -7104262992857677597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon2k_Walk_without_shadow_20
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d769026ef78568580800000000000000
+      internalID: -8825269113440921987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon2k_Walk_without_shadow_21
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9975b8fcb9186ea0800000000000000
+      internalID: -5879421014114993765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon2k_Walk_without_shadow_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d867f7cac1d055e70800000000000000
+      internalID: 9103196638603605645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon2k_Walk_without_shadow_23
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6332baac57aea80800000000000000
+      internalID: -8436801438610147633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mon2k_Walk_without_shadow_0: 3574355050361397437
+      Mon2k_Walk_without_shadow_1: 7657626164848737500
+      Mon2k_Walk_without_shadow_10: 6913870322324259401
+      Mon2k_Walk_without_shadow_11: 1491323382231273009
+      Mon2k_Walk_without_shadow_12: -5028845250714818936
+      Mon2k_Walk_without_shadow_13: -8004829256328477189
+      Mon2k_Walk_without_shadow_14: -6061605578235205267
+      Mon2k_Walk_without_shadow_15: -2349692724820103893
+      Mon2k_Walk_without_shadow_16: 173563512044592034
+      Mon2k_Walk_without_shadow_17: 4286105583326617704
+      Mon2k_Walk_without_shadow_18: 4970244119261516388
+      Mon2k_Walk_without_shadow_19: -7104262992857677597
+      Mon2k_Walk_without_shadow_2: -4161211998150044622
+      Mon2k_Walk_without_shadow_20: -8825269113440921987
+      Mon2k_Walk_without_shadow_21: -5879421014114993765
+      Mon2k_Walk_without_shadow_22: 9103196638603605645
+      Mon2k_Walk_without_shadow_23: -8436801438610147633
+      Mon2k_Walk_without_shadow_3: -401977405609195189
+      Mon2k_Walk_without_shadow_4: -1160506821893572957
+      Mon2k_Walk_without_shadow_5: 2491096282604747077
+      Mon2k_Walk_without_shadow_6: -1318408941869613206
+      Mon2k_Walk_without_shadow_7: 3359377133983405229
+      Mon2k_Walk_without_shadow_8: 5322374651859692718
+      Mon2k_Walk_without_shadow_9: -9177339763462978005
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 12bc8fe48b82f7247988d6e3205958ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4737004347476410267
+    second: Priest_Walk_0
+  - first:
+      213: -7749956226732052105
+    second: Priest_Walk_1
+  - first:
+      213: 4603019330677819931
+    second: Priest_Walk_2
+  - first:
+      213: -7450776423711070042
+    second: Priest_Walk_3
+  - first:
+      213: 1434291204877522593
+    second: Priest_Walk_4
+  - first:
+      213: -266199618084293255
+    second: Priest_Walk_5
+  - first:
+      213: -3610914879042397636
+    second: Priest_Walk_6
+  - first:
+      213: -7395058826698279804
+    second: Priest_Walk_7
+  - first:
+      213: 4412674321428685806
+    second: Priest_Walk_8
+  - first:
+      213: -6249841966704328646
+    second: Priest_Walk_9
+  - first:
+      213: 1564649093160104360
+    second: Priest_Walk_10
+  - first:
+      213: 556811382126786999
+    second: Priest_Walk_11
+  - first:
+      213: 2574851503253372106
+    second: Priest_Walk_12
+  - first:
+      213: 76521609078317457
+    second: Priest_Walk_13
+  - first:
+      213: 961656558054064362
+    second: Priest_Walk_14
+  - first:
+      213: 8229464673013954814
+    second: Priest_Walk_15
+  - first:
+      213: -4885314621722092817
+    second: Priest_Walk_16
+  - first:
+      213: -2748744617922202636
+    second: Priest_Walk_17
+  - first:
+      213: 785071111361630919
+    second: Priest_Walk_18
+  - first:
+      213: -1526619214196946487
+    second: Priest_Walk_19
+  - first:
+      213: -7077506623133587347
+    second: Priest_Walk_20
+  - first:
+      213: 7952263590720409266
+    second: Priest_Walk_21
+  - first:
+      213: -4749476855215338304
+    second: Priest_Walk_22
+  - first:
+      213: -4755996486778151991
+    second: Priest_Walk_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Priest_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 149
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5600039c4a7c24eb0800000000000000
+      internalID: -4737004347476410267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 149
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7713fc07fdf927490800000000000000
+      internalID: -7749956226732052105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 149
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ace4381b531ef30800000000000000
+      internalID: 4603019330677819931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 149
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8a8db8156899890800000000000000
+      internalID: -7450776423711070042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 149
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6113b6040a7e310800000000000000
+      internalID: 1434291204877522593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 149
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975bdb49bd44e4cf0800000000000000
+      internalID: -266199618084293255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 101
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a51888c0473edc0800000000000000
+      internalID: -3610914879042397636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 101
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48438858d297f5990800000000000000
+      internalID: -7395058826698279804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 101
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3ae3e7ae7fc3d30800000000000000
+      internalID: 4412674321428685806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 101
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30824828d91449a0800000000000000
+      internalID: -6249841966704328646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 101
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1f1f37f00c6b510800000000000000
+      internalID: 1564649093160104360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 101
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9bf8e70013ab700800000000000000
+      internalID: 556811382126786999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 53
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc3cc0dcc5bbb320800000000000000
+      internalID: 2574851503253372106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 53
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19121ce7ffbdf0100800000000000000
+      internalID: 76521609078317457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 53
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0ccb26b8d785d00800000000000000
+      internalID: 961656558054064362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 53
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef87f9eb48ee43270800000000000000
+      internalID: 8229464673013954814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_16
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 53
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea9b3c2c30e33cb0800000000000000
+      internalID: -4885314621722092817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_17
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 53
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3fa7e555f7ad9d0800000000000000
+      internalID: -2748744617922202636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2912c240225ea00800000000000000
+      internalID: 785071111361630919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 5
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9418eb9eb50dae0800000000000000
+      internalID: -1526619214196946487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 5
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68e5a87935a7cd90800000000000000
+      internalID: -7077506623133587347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_21
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 5
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be89255a9d1c5e60800000000000000
+      internalID: 7952263590720409266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 5
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc43f7c6f7761eb0800000000000000
+      internalID: -4749476855215338304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 5
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb1594c46e4ffdb0800000000000000
+      internalID: -4755996486778151991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Priest_Walk_0: -4737004347476410267
+      Priest_Walk_1: -7749956226732052105
+      Priest_Walk_10: 1564649093160104360
+      Priest_Walk_11: 556811382126786999
+      Priest_Walk_12: 2574851503253372106
+      Priest_Walk_13: 76521609078317457
+      Priest_Walk_14: 961656558054064362
+      Priest_Walk_15: 8229464673013954814
+      Priest_Walk_16: -4885314621722092817
+      Priest_Walk_17: -2748744617922202636
+      Priest_Walk_18: 785071111361630919
+      Priest_Walk_19: -1526619214196946487
+      Priest_Walk_2: 4603019330677819931
+      Priest_Walk_20: -7077506623133587347
+      Priest_Walk_21: 7952263590720409266
+      Priest_Walk_22: -4749476855215338304
+      Priest_Walk_23: -4755996486778151991
+      Priest_Walk_3: -7450776423711070042
+      Priest_Walk_4: 1434291204877522593
+      Priest_Walk_5: -266199618084293255
+      Priest_Walk_6: -3610914879042397636
+      Priest_Walk_7: -7395058826698279804
+      Priest_Walk_8: 4412674321428685806
+      Priest_Walk_9: -6249841966704328646
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

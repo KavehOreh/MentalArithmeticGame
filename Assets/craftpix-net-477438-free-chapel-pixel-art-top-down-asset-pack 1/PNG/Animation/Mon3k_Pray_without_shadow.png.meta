@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: bc78c27934a223c4c803ecd0a8b01569
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4102075910017901967
+    second: Mon3k_Pray_without_shadow_0
+  - first:
+      213: -803945074813648252
+    second: Mon3k_Pray_without_shadow_1
+  - first:
+      213: -7243679583027134522
+    second: Mon3k_Pray_without_shadow_2
+  - first:
+      213: -5255271210013335396
+    second: Mon3k_Pray_without_shadow_3
+  - first:
+      213: 5107241366718734846
+    second: Mon3k_Pray_without_shadow_4
+  - first:
+      213: 8120239226775887623
+    second: Mon3k_Pray_without_shadow_5
+  - first:
+      213: 636081087128208236
+    second: Mon3k_Pray_without_shadow_6
+  - first:
+      213: -8150586162954477743
+    second: Mon3k_Pray_without_shadow_7
+  - first:
+      213: -3513161131123367250
+    second: Mon3k_Pray_without_shadow_8
+  - first:
+      213: 1119318122464297390
+    second: Mon3k_Pray_without_shadow_9
+  - first:
+      213: 890977574287512574
+    second: Mon3k_Pray_without_shadow_10
+  - first:
+      213: 4447575740860597705
+    second: Mon3k_Pray_without_shadow_11
+  - first:
+      213: -8404545090319798509
+    second: Mon3k_Pray_without_shadow_12
+  - first:
+      213: 4642128869288759056
+    second: Mon3k_Pray_without_shadow_13
+  - first:
+      213: -2070005101405058872
+    second: Mon3k_Pray_without_shadow_14
+  - first:
+      213: -7695904792022165654
+    second: Mon3k_Pray_without_shadow_15
+  - first:
+      213: 5072678462243241435
+    second: Mon3k_Pray_without_shadow_16
+  - first:
+      213: -2803941101051161034
+    second: Mon3k_Pray_without_shadow_17
+  - first:
+      213: 6032381692954454127
+    second: Mon3k_Pray_without_shadow_18
+  - first:
+      213: 7822435962617936861
+    second: Mon3k_Pray_without_shadow_19
+  - first:
+      213: 4550601538040825792
+    second: Mon3k_Pray_without_shadow_20
+  - first:
+      213: 6708004014819778409
+    second: Mon3k_Pray_without_shadow_21
+  - first:
+      213: 4106339258698396152
+    second: Mon3k_Pray_without_shadow_22
+  - first:
+      213: 2499454460578768543
+    second: Mon3k_Pray_without_shadow_23
+  - first:
+      213: 7454647399126504941
+    second: Mon3k_Pray_without_shadow_24
+  - first:
+      213: 176568167641711979
+    second: Mon3k_Pray_without_shadow_25
+  - first:
+      213: 7334173164547039784
+    second: Mon3k_Pray_without_shadow_26
+  - first:
+      213: 2019423727107549040
+    second: Mon3k_Pray_without_shadow_27
+  - first:
+      213: -2786825586093345924
+    second: Mon3k_Pray_without_shadow_28
+  - first:
+      213: 6300349572536750840
+    second: Mon3k_Pray_without_shadow_29
+  - first:
+      213: 4346571230795961600
+    second: Mon3k_Pray_without_shadow_30
+  - first:
+      213: 3043741015791578446
+    second: Mon3k_Pray_without_shadow_31
+  - first:
+      213: -6943109424525372112
+    second: Mon3k_Pray_without_shadow_32
+  - first:
+      213: 1634435183279972001
+    second: Mon3k_Pray_without_shadow_33
+  - first:
+      213: -3828904024744096836
+    second: Mon3k_Pray_without_shadow_34
+  - first:
+      213: 5173141781639067648
+    second: Mon3k_Pray_without_shadow_35
+  - first:
+      213: 2240019193534216076
+    second: Mon3k_Pray_without_shadow_36
+  - first:
+      213: -4814386402308668908
+    second: Mon3k_Pray_without_shadow_37
+  - first:
+      213: -605112622321956012
+    second: Mon3k_Pray_without_shadow_38
+  - first:
+      213: -3746935409619461892
+    second: Mon3k_Pray_without_shadow_39
+  - first:
+      213: -2844084338034810480
+    second: Mon3k_Pray_without_shadow_40
+  - first:
+      213: -2313789992918282979
+    second: Mon3k_Pray_without_shadow_41
+  - first:
+      213: -5779984928406442611
+    second: Mon3k_Pray_without_shadow_42
+  - first:
+      213: -1549888173962160662
+    second: Mon3k_Pray_without_shadow_43
+  - first:
+      213: 6414133587493651369
+    second: Mon3k_Pray_without_shadow_44
+  - first:
+      213: -8910155443514794192
+    second: Mon3k_Pray_without_shadow_45
+  - first:
+      213: 367331705178304150
+    second: Mon3k_Pray_without_shadow_46
+  - first:
+      213: -7073098514992631780
+    second: Mon3k_Pray_without_shadow_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 98
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a12bd81bf7217c0800000000000000
+      internalID: -4102075910017901967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 98
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482cec4c630d7d4f0800000000000000
+      internalID: -803945074813648252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 98
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cffae24cc7497b90800000000000000
+      internalID: -7243679583027134522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 98
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9061d89da68117b0800000000000000
+      internalID: -5255271210013335396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 98
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef16375b6f090e640800000000000000
+      internalID: 5107241366718734846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 98
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f5b2bcd82e0b070800000000000000
+      internalID: 8120239226775887623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 98
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c630f9ee060d3d800800000000000000
+      internalID: 636081087128208236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 98
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f52e5811d43ee80800000000000000
+      internalID: -8150586162954477743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 98
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2aea4909ebe3fc0800000000000000
+      internalID: -3513161131123367250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 98
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea14428e6ed988f00800000000000000
+      internalID: 1119318122464297390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 98
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef31f3a12636d5c00800000000000000
+      internalID: 890977574287512574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 98
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c504a17296f8bd30800000000000000
+      internalID: 4447575740860597705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f2cb005ce0d5b80800000000000000
+      internalID: -8404545090319798509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fca8f8c972c6040800000000000000
+      internalID: 4642128869288759056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8418fd35dd543e0800000000000000
+      internalID: -2070005101405058872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 66
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67da46cd57a23590800000000000000
+      internalID: -7695904792022165654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_16
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 66
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd78c96f26c56640800000000000000
+      internalID: 5072678462243241435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_17
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 66
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6365abcac666619d0800000000000000
+      internalID: -2803941101051161034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_18
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 66
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68ae16503357b350800000000000000
+      internalID: 6032381692954454127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_19
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 66
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb351e1010ee8c60800000000000000
+      internalID: 7822435962617936861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_20
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7054d1dfbf62f30800000000000000
+      internalID: 4550601538040825792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_21
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f1a376c1e971d50800000000000000
+      internalID: 6708004014819778409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_22
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f175f9acc5acf830800000000000000
+      internalID: 4106339258698396152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_23
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 66
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f962017d698dfa220800000000000000
+      internalID: 2499454460578768543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de599b6205a347760800000000000000
+      internalID: 7454647399126504941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b650dee10db437200800000000000000
+      internalID: 176568167641711979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_26
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822670292a738c560800000000000000
+      internalID: 7334173164547039784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 34
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077ad313e2f660c10800000000000000
+      internalID: 2019423727107549040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 34
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73bfe905e43359d0800000000000000
+      internalID: -2786825586093345924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 34
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f256d73e865f6750800000000000000
+      internalID: 6300349572536750840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 34
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005968a518f125c30800000000000000
+      internalID: 4346571230795961600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_31
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 34
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d2b82d35a8d3a20800000000000000
+      internalID: 3043741015791578446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_32
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0359f7ab3ce15af90800000000000000
+      internalID: -6943109424525372112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_33
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae9dcbb32eaea610800000000000000
+      internalID: 1634435183279972001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_34
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb801e63100ddac0800000000000000
+      internalID: -3828904024744096836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_35
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 34
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008f35bba01bac740800000000000000
+      internalID: 5173141781639067648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87f9a0a695261f10800000000000000
+      internalID: 2240019193534216076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_37
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412cbe6231ddf2db0800000000000000
+      internalID: -4814386402308668908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_38
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b0569a6453a97f0800000000000000
+      internalID: -605112622321956012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_39
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf89c49d816300cc0800000000000000
+      internalID: -3746935409619461892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_40
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091ee28fc58c788d0800000000000000
+      internalID: -2844084338034810480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_41
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d804ba244c3efd0800000000000000
+      internalID: -2313789992918282979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_42
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8de83fc45e59cfa0800000000000000
+      internalID: -5779984928406442611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_43
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5186ddae0bd7ae0800000000000000
+      internalID: -1549888173962160662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_44
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a30678a384930950800000000000000
+      internalID: 6414133587493651369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_45
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f99c705d4c85480800000000000000
+      internalID: -8910155443514794192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_46
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 2
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e24e95d36091500800000000000000
+      internalID: 367331705178304150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mon3k_Pray_without_shadow_47
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 2
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c107580206e47dd90800000000000000
+      internalID: -7073098514992631780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mon3k_Pray_without_shadow_0: -4102075910017901967
+      Mon3k_Pray_without_shadow_1: -803945074813648252
+      Mon3k_Pray_without_shadow_10: 890977574287512574
+      Mon3k_Pray_without_shadow_11: 4447575740860597705
+      Mon3k_Pray_without_shadow_12: -8404545090319798509
+      Mon3k_Pray_without_shadow_13: 4642128869288759056
+      Mon3k_Pray_without_shadow_14: -2070005101405058872
+      Mon3k_Pray_without_shadow_15: -7695904792022165654
+      Mon3k_Pray_without_shadow_16: 5072678462243241435
+      Mon3k_Pray_without_shadow_17: -2803941101051161034
+      Mon3k_Pray_without_shadow_18: 6032381692954454127
+      Mon3k_Pray_without_shadow_19: 7822435962617936861
+      Mon3k_Pray_without_shadow_2: -7243679583027134522
+      Mon3k_Pray_without_shadow_20: 4550601538040825792
+      Mon3k_Pray_without_shadow_21: 6708004014819778409
+      Mon3k_Pray_without_shadow_22: 4106339258698396152
+      Mon3k_Pray_without_shadow_23: 2499454460578768543
+      Mon3k_Pray_without_shadow_24: 7454647399126504941
+      Mon3k_Pray_without_shadow_25: 176568167641711979
+      Mon3k_Pray_without_shadow_26: 7334173164547039784
+      Mon3k_Pray_without_shadow_27: 2019423727107549040
+      Mon3k_Pray_without_shadow_28: -2786825586093345924
+      Mon3k_Pray_without_shadow_29: 6300349572536750840
+      Mon3k_Pray_without_shadow_3: -5255271210013335396
+      Mon3k_Pray_without_shadow_30: 4346571230795961600
+      Mon3k_Pray_without_shadow_31: 3043741015791578446
+      Mon3k_Pray_without_shadow_32: -6943109424525372112
+      Mon3k_Pray_without_shadow_33: 1634435183279972001
+      Mon3k_Pray_without_shadow_34: -3828904024744096836
+      Mon3k_Pray_without_shadow_35: 5173141781639067648
+      Mon3k_Pray_without_shadow_36: 2240019193534216076
+      Mon3k_Pray_without_shadow_37: -4814386402308668908
+      Mon3k_Pray_without_shadow_38: -605112622321956012
+      Mon3k_Pray_without_shadow_39: -3746935409619461892
+      Mon3k_Pray_without_shadow_4: 5107241366718734846
+      Mon3k_Pray_without_shadow_40: -2844084338034810480
+      Mon3k_Pray_without_shadow_41: -2313789992918282979
+      Mon3k_Pray_without_shadow_42: -5779984928406442611
+      Mon3k_Pray_without_shadow_43: -1549888173962160662
+      Mon3k_Pray_without_shadow_44: 6414133587493651369
+      Mon3k_Pray_without_shadow_45: -8910155443514794192
+      Mon3k_Pray_without_shadow_46: 367331705178304150
+      Mon3k_Pray_without_shadow_47: -7073098514992631780
+      Mon3k_Pray_without_shadow_5: 8120239226775887623
+      Mon3k_Pray_without_shadow_6: 636081087128208236
+      Mon3k_Pray_without_shadow_7: -8150586162954477743
+      Mon3k_Pray_without_shadow_8: -3513161131123367250
+      Mon3k_Pray_without_shadow_9: 1119318122464297390
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

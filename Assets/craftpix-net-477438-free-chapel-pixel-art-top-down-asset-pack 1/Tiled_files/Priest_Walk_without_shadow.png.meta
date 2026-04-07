@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 4d0164cd6c7766d4795680c8a60baf9d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5550834634215597615
+    second: Priest_Walk_without_shadow_0
+  - first:
+      213: 3446810455017099521
+    second: Priest_Walk_without_shadow_1
+  - first:
+      213: 8674428823543510405
+    second: Priest_Walk_without_shadow_2
+  - first:
+      213: -8737193052650062689
+    second: Priest_Walk_without_shadow_3
+  - first:
+      213: 3585603141961820831
+    second: Priest_Walk_without_shadow_4
+  - first:
+      213: -8441437080394751173
+    second: Priest_Walk_without_shadow_5
+  - first:
+      213: 2773317255615439056
+    second: Priest_Walk_without_shadow_6
+  - first:
+      213: -476745973466519747
+    second: Priest_Walk_without_shadow_7
+  - first:
+      213: -2743902952227476506
+    second: Priest_Walk_without_shadow_8
+  - first:
+      213: -4864211192749487741
+    second: Priest_Walk_without_shadow_9
+  - first:
+      213: 4374860224825417076
+    second: Priest_Walk_without_shadow_10
+  - first:
+      213: -4960097928194175969
+    second: Priest_Walk_without_shadow_11
+  - first:
+      213: -139778612929063947
+    second: Priest_Walk_without_shadow_12
+  - first:
+      213: -8123531506524905640
+    second: Priest_Walk_without_shadow_13
+  - first:
+      213: 6285119568699845183
+    second: Priest_Walk_without_shadow_14
+  - first:
+      213: 5564204082055189799
+    second: Priest_Walk_without_shadow_15
+  - first:
+      213: 1748998760041326416
+    second: Priest_Walk_without_shadow_16
+  - first:
+      213: -7295853075092666974
+    second: Priest_Walk_without_shadow_17
+  - first:
+      213: 5755776008852278476
+    second: Priest_Walk_without_shadow_18
+  - first:
+      213: -1706831547925418266
+    second: Priest_Walk_without_shadow_19
+  - first:
+      213: 7179387276233562162
+    second: Priest_Walk_without_shadow_20
+  - first:
+      213: -2853533428032605120
+    second: Priest_Walk_without_shadow_21
+  - first:
+      213: 4132960191829348563
+    second: Priest_Walk_without_shadow_22
+  - first:
+      213: -1939168257465854040
+    second: Priest_Walk_without_shadow_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Priest_Walk_without_shadow_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 151
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9d4ac4f4977f2b0800000000000000
+      internalID: -5550834634215597615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_without_shadow_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 151
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101956bc8d785df20800000000000000
+      internalID: 3446810455017099521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_without_shadow_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 151
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58578b05e03c16870800000000000000
+      internalID: 8674428823543510405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_without_shadow_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 151
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c38c2d5314fb680800000000000000
+      internalID: -8737193052650062689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_without_shadow_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 151
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9aa82e6f0f92c130800000000000000
+      internalID: 3585603141961820831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_without_shadow_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 151
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33a24533bdf9da80800000000000000
+      internalID: -8441437080394751173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_without_shadow_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 103
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d06b6ea95dcc7620800000000000000
+      internalID: 2773317255615439056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_without_shadow_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 103
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d372e6320124269f0800000000000000
+      internalID: -476745973466519747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_without_shadow_8
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 103
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebe5528dc2bbe9d0800000000000000
+      internalID: -2743902952227476506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_without_shadow_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 102
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38900bf11b9de7cb0800000000000000
+      internalID: -4864211192749487741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_without_shadow_10
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 103
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d54ba0230a6bc30800000000000000
+      internalID: 4374860224825417076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_without_shadow_11
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 103
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cc5dac6313a2bb0800000000000000
+      internalID: -4960097928194175969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_without_shadow_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 55
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f39a2597186f0ef0800000000000000
+      internalID: -139778612929063947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_without_shadow_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 55
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f93e7922b634f80800000000000000
+      internalID: -8123531506524905640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_without_shadow_14
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 55
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ae53f92fa393750800000000000000
+      internalID: 6285119568699845183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_without_shadow_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 54
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7259da8d126083d40800000000000000
+      internalID: 5564204082055189799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_without_shadow_16
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 55
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057acdc0b11b54810800000000000000
+      internalID: 1748998760041326416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_without_shadow_17
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 55
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a509a5884cefba90800000000000000
+      internalID: -7295853075092666974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_without_shadow_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc0b5ed8cf90ef40800000000000000
+      internalID: 5755776008852278476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_without_shadow_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 7
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eea97610cd1058e0800000000000000
+      internalID: -1706831547925418266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_without_shadow_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 7
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2385cd090be42a360800000000000000
+      internalID: 7179387276233562162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_without_shadow_21
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 7
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044f96347763668d0800000000000000
+      internalID: -2853533428032605120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_without_shadow_22
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 7
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d091d8a5693b5930800000000000000
+      internalID: 4132960191829348563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Priest_Walk_without_shadow_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 7
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7d8067eb0b615e0800000000000000
+      internalID: -1939168257465854040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Priest_Walk_without_shadow_0: -5550834634215597615
+      Priest_Walk_without_shadow_1: 3446810455017099521
+      Priest_Walk_without_shadow_10: 4374860224825417076
+      Priest_Walk_without_shadow_11: -4960097928194175969
+      Priest_Walk_without_shadow_12: -139778612929063947
+      Priest_Walk_without_shadow_13: -8123531506524905640
+      Priest_Walk_without_shadow_14: 6285119568699845183
+      Priest_Walk_without_shadow_15: 5564204082055189799
+      Priest_Walk_without_shadow_16: 1748998760041326416
+      Priest_Walk_without_shadow_17: -7295853075092666974
+      Priest_Walk_without_shadow_18: 5755776008852278476
+      Priest_Walk_without_shadow_19: -1706831547925418266
+      Priest_Walk_without_shadow_2: 8674428823543510405
+      Priest_Walk_without_shadow_20: 7179387276233562162
+      Priest_Walk_without_shadow_21: -2853533428032605120
+      Priest_Walk_without_shadow_22: 4132960191829348563
+      Priest_Walk_without_shadow_23: -1939168257465854040
+      Priest_Walk_without_shadow_3: -8737193052650062689
+      Priest_Walk_without_shadow_4: 3585603141961820831
+      Priest_Walk_without_shadow_5: -8441437080394751173
+      Priest_Walk_without_shadow_6: 2773317255615439056
+      Priest_Walk_without_shadow_7: -476745973466519747
+      Priest_Walk_without_shadow_8: -2743902952227476506
+      Priest_Walk_without_shadow_9: -4864211192749487741
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
