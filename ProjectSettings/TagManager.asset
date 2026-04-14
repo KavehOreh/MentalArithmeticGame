@@ -7,6 +7,10 @@ TagManager:
   - Door
   - Enemy
   - HP
+  - DoorTown
+  - HelpPotion
+  - ChancePotion
+  - Armor
   layers:
   - Default
   - TransparentFX
